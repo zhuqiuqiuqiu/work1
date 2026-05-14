@@ -8,6 +8,7 @@
 ![image](https://github.com/zhuqiuqiuqiu/work1/blob/main/AI%E8%AF%BE%E9%A2%98%E7%BE%A4%E4%BD%93%E5%88%86%E6%9E%90-ESP32/Student%20Behaviour%20Detection/runs/detect/train/results.png)  
 模型整体识别准确度在80%以上。  
 
+## 2.其他小项目
 通过网盘分享的文件：工坊小项目
 链接: https://pan.baidu.com/s/1ZKNg552DMRbDlnoFkXrxrw 提取码: b24m 
 --来自百度网盘超级会员v5的分享
